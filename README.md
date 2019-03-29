@@ -2,3 +2,5 @@
 ESP8266 – HomeKit Switch
 
 for more information visit: https://www.studiopieters.nl/esp8266-homekit-switch/ ‎
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
