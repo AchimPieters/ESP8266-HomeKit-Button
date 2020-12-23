@@ -1,6 +1,11 @@
 # ESP8266-HomeKit-Button
 ESP8266 – HomeKit Button
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/achimpieters/ESP8266-HomeKit-Button)
+![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/ESP8266-HomeKit-Button/total)
+[![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
+
 For more information visit: https://www.studiopieters.nl/esp8266-homekit-Button/ ‎
 
 ![Image of HomeKit Light Button](https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Button/master/HomeKit%20Light%20Switch.png)
